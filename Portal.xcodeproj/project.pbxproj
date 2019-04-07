@@ -15,6 +15,7 @@
 		FF9436EA225A5C5C00BEA796 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF9436E8225A5C5C00BEA796 /* LaunchScreen.storyboard */; };
 		FF9436F5225A5C5D00BEA796 /* PortalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF9436F4225A5C5D00BEA796 /* PortalTests.swift */; };
 		FF943700225A5C5D00BEA796 /* PortalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF9436FF225A5C5D00BEA796 /* PortalUITests.swift */; };
+		FF94370E225A5CBD00BEA796 /* extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF94370D225A5CBD00BEA796 /* extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FF9436FB225A5C5D00BEA796 /* PortalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PortalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF9436FF225A5C5D00BEA796 /* PortalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalUITests.swift; sourceTree = "<group>"; };
 		FF943701225A5C5D00BEA796 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF94370D225A5CBD00BEA796 /* extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				FF9436DD225A5C5A00BEA796 /* AppDelegate.swift */,
 				FF9436DF225A5C5A00BEA796 /* art.scnassets */,
 				FF9436E1225A5C5A00BEA796 /* ViewController.swift */,
+				FF94370D225A5CBD00BEA796 /* extensions.swift */,
 				FF9436E3225A5C5A00BEA796 /* Main.storyboard */,
 				FF9436E6225A5C5C00BEA796 /* Assets.xcassets */,
 				FF9436E8225A5C5C00BEA796 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 			files = (
 				FF9436E2225A5C5A00BEA796 /* ViewController.swift in Sources */,
 				FF9436DE225A5C5A00BEA796 /* AppDelegate.swift in Sources */,
+				FF94370E225A5CBD00BEA796 /* extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
